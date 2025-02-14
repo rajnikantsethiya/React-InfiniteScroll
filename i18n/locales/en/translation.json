@@ -1,0 +1,5 @@
+{
+    "Welcome": "Welcome to ADCB infinite scroll assessment",
+    "listWithTopSpace": "Virtualized list using top spacing",
+    "listWithObserver": "Virtualized list using Intersection observer api"
+}
